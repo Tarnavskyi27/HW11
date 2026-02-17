@@ -1,0 +1,385 @@
+    1  /head
+    2  whoami
+    3  cd /
+    4  cd ~
+    5  ls
+    6  cd
+    7  ssh-keygen
+    8  cat .ssh/id_ed25519
+    9  cat .ssh/id_ed25519.pub
+   10  ssh ec2-user@linux.itcareerhub.de
+   11  scp ec2-user@linux.itcareerhub.de:/opt/281125-wdm/nazar_tarnavskyi/1.txt .
+   12  cd
+   13  ssh ec2-user@linux.itcareerhub.de
+   14  scp ec2-user@linux.itcareerhub.de:/opt/281125-wdm/nazar_tarnavskyi/test.txt .
+   15  cat test.txt
+   16  echo "hello2" > ivan.txt
+   17  pwd
+   18  scp ivan.txt ec2-user@linux.itcareerhub.de:/opt/281125-wdm/nazar_tarnavskyi/nazar.txt
+   19  ssh ec2-user@linux.itcareerhub.de
+   20  cd ~
+   21  ssh ec2-user@linux.itcareerhub.de
+   22  ssh ec2-user@linux.itcareerhub.de
+   23  top
+   24  ps -ef
+   25  ps -aux
+   26  ps -a | wc -l
+   27  ssh ec2-user@linux.itcareerhub.de
+   28  ssh ec2-user@linux.itcareerhub.de
+   29  ssh ec2-user@linux.itcareerhub.de~
+   30  ssh ec2-user@linux.itcareerhub.de
+   31  scp ec2-user@linux.itcareerhub.de:/opt/281125-wdm/nazar_tarnavskyi/.process_management .
+   32  ssh ec2-user@linux.itcareerhub.de~
+   33  ssh ec2-user@linux.itcareerhub.de
+   34  mkdir Linux
+   35  cd Linux
+   36  ls -la
+   37  git init
+   38  ls -la
+   39  echo "# Linux" >> README.md
+   40  ls -la
+   41  git status
+   42  git add README.md
+   43  git status
+   44  git comit -m "added file README.md"
+   45  git comit -m "added file README.md"
+   46  git commit -m "added file README.md"
+   47  git config --global user.email "nazartarnavskyi1997@gmail.com"
+   48  git config --global user.name "Jazyhuligan"
+   49  git commit -m "added file README.md"
+   50  git branch
+   51  git branch -M main
+   52  git branch
+   53  git push -u origin main
+   54  git remote -v
+   55  git remote add origin git@github.com:Jazyhuligan/Linux.git
+   56  git remote -v
+   57  git push -u origin main
+   58  ls -la
+   59  git add Project/
+   60  git status
+   61  git status
+   62  git add .
+   63  git status
+   64  git commit -m "added file First Project"
+   65  git push
+   66  clear
+   67  git log
+   68  git log --oneline
+   69  git log --graf
+   70  git log --graph
+   71  cd Project/
+   72  ls -la
+   73  cd ..
+   74  ls -la
+   75  ls
+   76  ls
+   77  ls
+   78  git init
+   79  ls -la
+   80  git branch
+   81  git status
+   82  git add screen.png 
+   83  git commit
+   84  ls
+   85  git init
+   86  git status
+   87  git commit
+   88  git add screen.png 
+   89  ls
+   90  git commit
+   91  ls -la
+   92  clear
+   93  git status
+   94  git commit
+   95  git commit
+   96  touch YA smog.log
+   97  ls
+   98  touch YA_smog.log
+   99  ls
+  100  git status
+  101  git intro
+  102  git add
+  103  touch Ya_smog
+  104  ls
+  105  git status
+  106  git init
+  107  git status
+  108  git add
+  109  git status
+  110  git add Ya_smog 
+  111  git status
+  112  git branch
+  113  git commit -m "add file Ya_Smog"
+  114  git push
+  115  git remote -v
+  116  git remote add origin git@github.com:Jazyhuligan/Repo1.git
+  117  git remote -v
+  118  git push -u origin master 
+  119  git push -- forse
+  120  git push -f
+  121  git push --force origin main
+  122  git push --force origin master
+  123  git init
+  124  git add git_intro
+  125  status
+  126  git status
+  127  status
+  128  git status
+  129  git status
+  130  git add screen.png 
+  131  git status
+  132  git commit-M main
+  133  git commit -m "add photo"
+  134  git branch -M main
+  135  git revote ßv
+  136  git revote -v
+  137  git revote 
+  138  git remote
+  139  git remote -v
+  140  git remote add origin git@github.com:Jazyhuligan/git_intro.git 
+  141  git remote -v
+  142  git push -u origin main
+  143  ssh ec2-user@linux.itcareerhub.de
+  144  echo "# new_project" >> README.md
+  145  cat README.md 
+  146  git init
+  147  ls -la
+  148  git branch
+  149  git status
+  150  git add README.md 
+  151  git status
+  152  git commit -m "added readme"
+  153  git log
+  154  git branch
+  155  git branch -m main
+  156  git branch
+  157  сclear
+  158  clear
+  159  git remote -v
+  160  git remote add origin git@github.com:Jazyhuligan/new_project.git
+  161  git remote -v
+  162  git push -u origin main
+  163  git checkout -b gitignore
+  164  git branch
+  165  git log
+  166  nano .gitignore
+  167  git add .gitignore 
+  168  git status
+  169  git commit -m "added file gitignore"
+  170  git push 
+  171  git push -u origin gitignore
+  172  clear
+  173  git branch
+  174  git switch main
+  175  git log
+  176  git merge gitignore 
+  177  git log
+  178  git branch
+  179  git branch -d gitignore 
+  180  git branch
+  181  git status
+  182  git log
+  183  git switch 
+  184  clear
+  185  cat .gitignore
+  186  touch 1.bmp 2.txt new_project.log new_project.log
+  187  ls -la
+  188  touch  new_project2.log
+  189  ls -la
+  190  git status
+  191  git add 2.txt
+  192  git status
+  193  git commit -m "added 2.txt"
+  194  git push 
+  195  git status
+  196  git push 
+  197  git commit -m "added 2.txt"
+  198  git commit -m "added 2.txt" 2.txt
+  199  git status
+  200  git push
+  201  git status
+  202  git push
+  203  git add new_project2.log 
+  204  git status
+  205  git commi -m "add file"
+  206  git commit -m "add file"
+  207  git push
+  208  git push -u origin main git@github.com:Tarnavskyi27/new_project.git
+  209  git push -u origin main 'git@github.com:Tarnavskyi27/new_project.git'
+  210  cd ..
+  211  git clone git@github.com:Tarnavskyi27/new_project.git
+  212  git clone git@github.com:Tarnavskyi27/lastcall.git
+  213  cd lascall
+  214  cd lastcall
+  215  git log
+  216  git checkout -b test
+  217  ls -la
+  218  touch nazar.txt
+  219  echo "10.02.26"
+  220  echo 10.02.26 >> nazar.txt 
+  221  cat nazar.txt 
+  222  git status
+  223  git add nazar.txt 
+  224  git status
+  225  git push"
+  226  git push
+  227  git push --ser-uostream origin test
+  228  git push --set-upstream origin test
+  229  git commit -m "added file Nazar" 
+  230  git push
+  231  git init
+  232  git status
+  233  git checkout -b gitignore
+  234  git branch
+  235  nano .gitignore
+  236  ls -a
+  237  git add .gitignore
+  238  git status
+  239  git commit -m "add file"
+  240  git remote add origin git@github.com:Tarnavskyi27/git-branch.git
+  241  git remote -v
+  242  git push -u origin gitignore
+  243  ssh ec2-user@linux.itcareerhub.de
+  244  ssh ec2-user@linux.itcareerhub.de
+  245  ssh ec2-user@linux.itcareerhub.de
+  246  git clone git@github.com:Tarnavskyi27/git-branch1.git
+  247  ls
+  248  cd git-branch1/
+  249  git log
+  250  ls ßla
+  251  ls -la
+  252  git checkout -b gitignore
+  253  git branch
+  254  nano .gitignore 
+  255  git status
+  256  git add .gitignore 
+  257  git status
+  258  git rm cached .gitignore
+  259  git rm --cached .gitignore
+  260  git status
+  261  git add .gitignore 
+  262  git commit -m "added file .gitignore"
+  263  git remote -v
+  264  git push
+  265  git push - u origin gitignore 
+  266  git push - u origin main
+  267  git push - u origin gitignore 
+  268  git push -u origin gitignore 
+  269  clear
+  270  git branch
+  271  git log
+  272  git switch
+  273  git switch main
+  274  git branch
+  275  git log
+  276  git merge origin gitignore 
+  277  git branch
+  278  clear
+  279  git branch -d gitignore 
+  280  git branch
+  281  git log --oneline
+  282  git log --oneline --graph
+  283  git checkout -b test
+  284  git branch
+  285  echo "test test" >> test.txt
+  286  git add
+  287  git add test.txt
+  288  git status
+  289  git commit -m "added file"
+  290  git push -u origin test
+  291  touch test1.txt
+  292  git add test1.txt 
+  293  git status
+  294  git commit -m "added test1"
+  295  git push -u origin main
+  296  git push -u origin test
+  297  git fetch origin
+  298  git rebase origin/main
+  299  git switch main
+  300  git log
+  301  git switch test
+  302  git switch test
+  303  git switch main
+  304  git pull
+  305  git log
+  306  git switch test
+  307  git rebase
+  308  git fetch
+  309  git fetch origin
+  310  git rebase origin/test
+  311  git rebase origin test
+  312  git rebase origin/main
+  313  git pull
+  314  sdasd
+  315  git fetch ßßall
+  316  git fetch --all
+  317  git switch test
+  318  git log
+  319  clear
+  320  git log --oneline --graph
+  321  git merge-base test origin/main
+  322  git checkout -b test2
+  323  touch test2test.txt
+  324  git add .
+  325  git commit -m "added new file"
+  326  git status
+  327  tree
+  328  git rebase test
+  329  git switch test
+  330  git log
+  331  clear
+  332  git log --oneline
+  333  git revert
+  334  git revert 0d3b13e
+  335  git revert -m 0d3b13e
+  336  git revert -m "edited commit" 0d3b13e
+  337  git revert 0d3b13e -m "edited commit"
+  338  git revert 150b57b
+  339  git log --oneline
+  340  clear
+  341  touch task.txt
+  342  git add task.txt 
+  343  git commit -m "qweqweasdzxc"
+  344  git log --oneline
+  345  git commit --amend
+  346  clear
+  347  git log --oneline
+  348  git reset --soft HEAD~1
+  349  git log --oneline
+  350  git status
+  351  git commit -m "lalala"
+  352  git status
+  353  git reset --mixed HEAD~1
+  354  git log --oneline
+  355  git status
+  356  git add .
+  357  git commit -m "qweasd"
+  358  git log --oneline
+  359  git reset --hard HEAD~1
+  360  git log --oneline
+  361  git status
+  362  git reset --hard HEAD~4
+  363  git log --oneline
+  364  git reflog
+  365  git reset --hard 841a926
+  366  git log --oneline
+  367  git clone git@github.com:Tarnavskyi27/HW11.git
+  368  cd HW11/
+  369  git checkout -b feature
+  370  touch README.md
+  371  nano .gitignore
+  372  git status
+  373  git add .
+  374  git status
+  375  git rm --cached README.md 
+  376  git status
+  377  git add .
+  378  git status
+  379  git commit -m "added file README.md"
+  380  git commit --amend
+  381  git commit log
+  382  git log
+  383  git switch main 
+  384  git merge feature 
+  385  history >> history.txt
